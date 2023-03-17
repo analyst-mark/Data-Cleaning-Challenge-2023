@@ -95,7 +95,7 @@ To convert the "Weight" column, we can use a similar approach. We can first chec
 
 To fix the issues with the "Height" column, we can split the column into two separate columns for feet and inches. If the original data is in centimeters, we can mark the inches column as null. Then, using a custom column in Power Query, we can check whether the inches column is null. If it is null, we simply get the value in the feet column. If it is not null, we can convert the feet and inches values to centimeters by multiplying feet by 30.48 and adding the inches value multiplied by 2.54.Lastly, rename the column as height
 
-## IR,SM and W/F -
+## IR,SM and W/F 
 
 | Before                                           | After                                                  |
 | ------------------------------------------------ | ------------------------------------------------------ |
@@ -127,7 +127,7 @@ To do this, we first need to remove the euro symbol and any commas from the stri
 
 We then created a parameter for the euro to dollar conversion rate, which allowed us to easily change the conversion rate and reflect a more accurate value in dollars.After creating the parameter, we multiplied it by the euro values to get the corresponding dollar values.
 
-## contract
+## Contract
 
 ---
 
