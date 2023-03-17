@@ -31,7 +31,7 @@ I decided to split the dataset into two parts: "Player Info" and "Player Stats".
 
 | Before                           | After                                            |
 | -------------------------------- | ------------------------------------------------ |
-| ![](remove%20whitespace%201.PNG) | ![](white%20space%20cleaned%20using%20clean.PNG) |
+| ![](https://github.com/analyst-mark/Data-Cleaning-Challenge-2023/blob/main/Data%20cleaning%20challenge/source/white%20space.PNG) | ![](https://github.com/analyst-mark/Data-Cleaning-Challenge-2023/blob/main/Data%20cleaning%20challenge/source/white%20space%20clean.PNG) |
 |                                  |                                                  |
 
 During the initial inspection of the data, we noticed that there were large amounts of white space in the dataset. In order to clean and manipulate the data more easily, we needed to remove the white space. To achieve this, we used the functions CLEAN and TRIM.
