@@ -180,4 +180,4 @@ Overall, this project provided a valuable learning experience in data cleaning a
 
 Thank you for taking the time to read through my FIFA'21 data cleaning project
 
-![[Pasted image 20230516153321.png]]
+
