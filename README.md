@@ -179,3 +179,5 @@ Different techniques were applied throughout the project, such as splitting colu
 Overall, this project provided a valuable learning experience in data cleaning and improved data-wrangling skills. It also demonstrated practical knowledge applicable in various data analysis projects.
 
 Thank you for taking the time to read through my FIFA'21 data cleaning project
+
+![[Pasted image 20230516153321.png]]
