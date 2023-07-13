@@ -14,7 +14,7 @@ The dataset used for this project was obtained from **[Kaggle](https://www.kaggl
 
 ## Data Exploration
 
-To begin the data cleaning process, I conducted a data exploration of the dataset in Microsoft Excel. This allowed me to gain a better understanding of the dataset. During the review, I observed that the dataset contained special characters, unnecessary columns, incorrect data types, and inconsistencies in the units used for recording, such as "M", "K", "Kg and lbs", "cm and ft'in". Here is a screenshot of the original dataset:
+To begin the data cleaning process, I conducted a data exploration of the dataset in Microsoft Excel using Power Query. This allowed me to gain a better understanding of the dataset. During the review, I observed that the dataset contained special characters, unnecessary columns, incorrect data types, and inconsistencies in the units used for recording, such as "M", "K", "Kg and lbs", "cm and ft'in". Here is a screenshot of the original dataset:
 
 | Original Dataset | ![](Data%20cleaning%20challenge/source/original%20dirty%20data.PNG) |
 | ---------------- | ------------------------------------------------------------------- |
